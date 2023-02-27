@@ -1,0 +1,1 @@
+echo "Please use Xcode to run and test your project";
